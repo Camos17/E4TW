@@ -46,7 +46,7 @@
 				</a>
 			</li>
 			<li>
-				<a href="https://plus.google.com/">
+				<a href="https://instagram.com/">
 					<i class="fa fa-instagram"></i>
 				</a>
 			</li>
