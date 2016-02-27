@@ -1,0 +1,39 @@
+.no-padding{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.img-responsive{
+	width:100%;
+}
+
+.logo {
+	margin-top: 20px;
+}
+
+#video-container{
+	position: relative;
+	margin-top: 40px;
+}
+
+#video-container img{
+	position:absolute;
+	left:0;
+	bottom:-14px;
+	padding:0 12px;
+}
+
+#redes-sociales {
+	margin-top: 50px;
+	text-align: center;
+}
+
+#redes-sociales li {
+	list-style: none;
+	display: inline-block;
+}
+
+#redes-sociales i {
+	font-size: 2em;
+	color: #5D5E5E;
+}
