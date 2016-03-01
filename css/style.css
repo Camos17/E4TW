@@ -13,13 +13,13 @@
 
 #video-container{
 	position: relative;
-	margin-top: 40px;
+	margin-top: 100px;
 }
 
 #video-container img{
 	position:absolute;
 	left:0;
-	bottom:-14px;
+	top:-37px;
 	padding:0 12px;
 }
 
