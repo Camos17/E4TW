@@ -7,6 +7,11 @@
 	width:100%;
 }
 
+.barra {
+	position: relative;
+	margin-top: -50px;
+}
+
 .logo {
 	margin-top: 20px;
 }

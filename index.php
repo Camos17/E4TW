@@ -15,12 +15,15 @@
 		<link rel="stylesheet" href="css/style.css">
 	</head>
 	<body>
+		<div class="barra">
+			<img class="img-responsive" src="img/BarraVideo.svg" alt="barravideo">
+		</div>			
 		<div class="col-xs-8 col-xs-offset-2 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4 col-lg-2 col-lg-offset-5 logo">
 			<img class="img-responsive" src="img/Logo.svg" alt="Entrepeneurs for the world">	
 		</div>
 		<div id="video-container" class="col-xs-12 col-md-6 col-md-offset-3">
 			<iframe width="854" height="480" src="https://www.youtube.com/embed/4EqIR7i_Pi8" frameborder="0" allowfullscreen></iframe>
-			<img class="img-responsive" src="img/BarraVideo.svg" alt="barravideo">
+			<!-- <img class="img-responsive" src="img/BarraVideo.svg" alt="barravideo"> -->
 		</div>
 
 
